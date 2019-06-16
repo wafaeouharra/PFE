@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet Web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, consultez la page http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\wafae.DESKTOP-R5LTQOF\OneDrive\Documents\PFE\PFE_OUHARRAWafae\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Accueil.aspx">
+      <publishTime>05/30/2019 01:03:08</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>05/10/2019 17:40:03</publishTime>
+    </File>
+    <File Include="Assistant.Master">
+      <publishTime>05/31/2019 07:27:48</publishTime>
+    </File>
+    <File Include="Assistant/Inscription.aspx">
+      <publishTime>05/30/2019 00:51:14</publishTime>
+    </File>
+    <File Include="Assistant/Verification.aspx">
+      <publishTime>05/30/2019 23:13:20</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>05/10/2019 17:40:03</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>05/10/2019 17:40:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>05/10/2019 17:40:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>05/10/2019 17:40:01</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>05/10/2019 17:40:01</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>05/10/2019 17:40:03</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>05/10/2019 17:40:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>05/10/2019 17:39:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/PFE1.dll">
+      <publishTime>06/13/2019 17:20:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/10/2019 17:39:56</publishTime>
+    </File>
+    <File Include="Content/Main.css">
+      <publishTime>05/29/2019 17:08:24</publishTime>
+    </File>
+    <File Include="Coordonnees.aspx">
+      <publishTime>05/30/2019 09:19:41</publishTime>
+    </File>
+    <File Include="Images/img1.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img10.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img11.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img12.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img13.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img14.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img2.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img3.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img4.jpg">
+      <publishTime>05/11/2019 12:05:06</publishTime>
+    </File>
+    <File Include="Images/img5.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img6.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img7.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img8.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/img9.jpg">
+      <publishTime>05/11/2019 12:05:07</publishTime>
+    </File>
+    <File Include="Images/MaFitness.png">
+      <publishTime>05/10/2019 18:03:37</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/30/2019 22:56:47</publishTime>
+    </File>
+    <File Include="Manager.Master">
+      <publishTime>05/31/2019 07:28:12</publishTime>
+    </File>
+    <File Include="Manager/GestionActivites.aspx">
+      <publishTime>05/29/2019 20:55:33</publishTime>
+    </File>
+    <File Include="Manager/GestionClients.aspx">
+      <publishTime>05/29/2019 20:55:29</publishTime>
+    </File>
+    <File Include="Manager/GestionEntraineurs.aspx">
+      <publishTime>05/29/2019 20:55:55</publishTime>
+    </File>
+    <File Include="Manager/TableauBoard.aspx">
+      <publishTime>05/31/2019 07:27:29</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/10/2019 17:40:03</publishTime>
+    </File>
+    <File Include="Public.Master">
+      <publishTime>05/31/2019 07:27:58</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.js">
+      <publishTime>05/10/2019 17:40:03</publishTime>
+    </File>
+    <File Include="scripts/ai.0.15.0-build58334.min.js">
+      <publishTime>05/10/2019 17:40:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/13/2019 17:20:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
